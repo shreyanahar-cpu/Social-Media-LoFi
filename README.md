@@ -1,7 +1,7 @@
 # My Figma Project(LoFi)
 
 ## Project Overview
-This is my UI/UX design project created using Figma.
+This is UI/UX design project created using Figma by my team.
 
 ## Project Description
 
