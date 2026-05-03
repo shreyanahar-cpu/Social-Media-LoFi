@@ -12,10 +12,17 @@ The app includes basic features such as user login and signup, home feed, profil
 This project demonstrates the initial design stage where structure, layout, and user flow are prioritized over visual details.
 
 ##Screns
+
 #Login
 <img width="485" height="266" alt="image" src="https://github.com/user-attachments/assets/9062192b-7c72-40de-83b2-73b2fe958c22" />
+
 #Profile
-<img width="133" height="271" alt="image" src="https://github.com/user-attachments/assets/1e424294-65af-4c53-8a8f-fb2c24ac60ac" />
+<img width="363" height="745" alt="image" src="https://github.com/user-attachments/assets/d9b9478d-2675-42a7-82bc-3a905eb02c88" />
+
+#creat Post
+<img width="1051" height="706" alt="image" src="https://github.com/user-attachments/assets/62153702-ccf9-4f15-ae88-736886c806f7" />
+<img width="720" height="712" alt="image" src="https://github.com/user-attachments/assets/85dcc237-c487-4913-9b70-6867c43d7826" />
+
 
 
 ## View Design
